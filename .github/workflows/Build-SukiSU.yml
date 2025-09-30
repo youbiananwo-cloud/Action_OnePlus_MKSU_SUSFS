@@ -19,7 +19,7 @@ on:
         type: choice
         description: "配置文件"
         required: true
-        default: oneplus_ace2_v
+        default: oneplus_ace2_u
         options:
           - oneplus_nord_ce4_v
           - oneplus_ace_3v_v
@@ -27,7 +27,7 @@ on:
           - oneplus_10_pro_v
           - oneplus_10t_v
           - oneplus_11r_v
-          - oneplus_ace2_v
+          - oneplus_ace2_u
           - oneplus_ace_pro_v
           - oneplus_11_v
           - oneplus_12r_v
