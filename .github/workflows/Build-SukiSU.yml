@@ -47,10 +47,9 @@ on:
         type: choice
         description: "处理器代号"
         required: true
-        default: taro
+        default: waipio
         options:
           - crow
-          - taro
           - waipio
           - kalama
           - pineapple
